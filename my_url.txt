@@ -1,1 +1,1 @@
-automatic-cup.surge.sh/
+http://automatic-cup.surge.sh
